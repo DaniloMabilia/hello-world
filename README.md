@@ -1,2 +1,2 @@
 # hello-world
-Exercicio  do Curso da Cubos Academy
+Exercicio 1 do Curso da Cubos Academy 
