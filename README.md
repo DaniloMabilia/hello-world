@@ -17,5 +17,4 @@ Na sua máquina, abra o terminal e navegue até a pasta que você criou durante 
 
 </br>6 - Dê push nesse commit e veja se essas alterações apareceram no seu GitHub.
 
-</br>7 - Se aparecer, parabéns! Já pode mostrar para sua mãe o seu BELO GitHub.
 
